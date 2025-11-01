@@ -5,7 +5,7 @@ DSA project template for the Bootcamp on Nov 1st, 2025.
 Dataset: [(https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction)]
 
 
-## Sub headingsHow many people die from heart disease annually?
+## How many people die from heart disease annually?
 
 
 More info:
