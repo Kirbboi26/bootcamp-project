@@ -2,7 +2,7 @@
 
 DSA project template for the Bootcamp on Nov 1st, 2025. 
 
-Provide a [(https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction)]
+Dataset: [(https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction)]
 
 Briefly _explain_ your **hypothesis**.
 
